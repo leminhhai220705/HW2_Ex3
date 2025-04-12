@@ -1,0 +1,14 @@
+pre {
+  width: 60%;
+}
+
+h1 {
+  text-align: center;
+}
+
+body h2,
+h3,
+p,
+ul {
+  margin-left: 50px;
+}
